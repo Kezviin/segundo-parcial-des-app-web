@@ -1,0 +1,18 @@
+[
+  { "id": 1, "nombre": "Mouse Gamer", "precio": 100000, "categoria": "Gamer", "stock": 15 },
+  { "id": 2, "nombre": "Teclado Mecánico", "precio": 250000, "categoria": "Gamer", "stock": 8 },
+  { "id": 3, "nombre": "Tarjeta Gráfica RTX", "precio": 1200000, "categoria": "Gamer", "stock": 3 },
+  { "id": 4, "nombre": "Case Gamer RGB", "precio": 350000, "categoria": "Gamer", "stock": 5 },
+  { "id": 5, "nombre": "Licuadora Oster", "precio": 150000, "categoria": "Electrodomésticos", "stock": 12 },
+  { "id": 6, "nombre": "Nevera Samsung", "precio": 1800000, "categoria": "Electrodomésticos", "stock": 4 },
+  { "id": 7, "nombre": "Microondas LG", "precio": 320000, "categoria": "Electrodomésticos", "stock": 7 },
+  { "id": 8, "nombre": "Lavadora Haceb", "precio": 950000, "categoria": "Electrodomésticos", "stock": 6 },
+  { "id": 9, "nombre": "Cepillo Dental Eléctrico", "precio": 85000, "categoria": "Aseo", "stock": 20 },
+  { "id": 10, "nombre": "Crema Dental", "precio": 12000, "categoria": "Aseo", "stock": 50 },
+  { "id": 11, "nombre": "Escoba Premium", "precio": 25000, "categoria": "Aseo", "stock": 30 },
+  { "id": 12, "nombre": "Jabón Líquido", "precio": 18000, "categoria": "Aseo", "stock": 45 },
+  { "id": 13, "nombre": "Cuerda para Saltar", "precio": 35000, "categoria": "Deportes", "stock": 25 },
+  { "id": 14, "nombre": "Pelota de Fútbol", "precio": 80000, "categoria": "Deportes", "stock": 18 },
+  { "id": 15, "nombre": "Silbato Deportivo", "precio": 15000, "categoria": "Deportes", "stock": 40 },
+  { "id": 16, "nombre": "Termo Deportivo", "precio": 65000, "categoria": "Deportes", "stock": 22 }
+]
